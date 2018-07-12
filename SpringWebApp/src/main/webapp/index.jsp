@@ -2,9 +2,10 @@
 <!DOCTYPE html>
 <html>
 <!-- This is a test! -->
+    <!-- Test2 -->
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Simple Spring-Maven Login</title>
+        <title>Simple Spring-Maven Login Title</title>
     </head>
     <body>
         <form method="post" action="login.jsp">
